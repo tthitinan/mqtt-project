@@ -1,1 +1,1 @@
-# secure menagement for multiple mqtt brokers (sm4b)
+# Secure Menagement for Multiple Mqtt Brokers (S3MB)
